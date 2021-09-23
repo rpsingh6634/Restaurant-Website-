@@ -1,2 +1,2 @@
-# https://bilal74.github.io/Resturant-Website/
 # Restaurant Website
+https://rpsingh6634.github.io/Resturant-Website-/
